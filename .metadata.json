@@ -1,0 +1,10 @@
+[
+  {
+    "package": "readabs",
+    "oncran": true
+  },
+  {
+    "package": "readrba",
+    "oncran": true
+  }
+]

@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "readabs"]
+	path = readabs
+	url = https://github.com/mattcowgill/readabs
+	shallow = true
+	registered = true
+[submodule "readrba"]
+	path = readrba
+	url = https://github.com/mattcowgill/readrba
+	shallow = true
+	registered = true
